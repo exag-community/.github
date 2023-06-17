@@ -33,14 +33,12 @@ The application provides a secure and convenient way for church members to make 
 4. Launch the application and sign in using your church membership credentials.
 5. Explore the various features and functionalities available in the application.
 
-### Web Application
+### Web Application (Admin)
 1. Open your preferred web browser on your computer or mobile device.
 2. Visit the Exhibition Assemblies of God Church social media page on [exag-community.web.app](https://exag-community.web.app).
 3. Click on the "Login" button on the homepage.
 4. Enter your church membership credentials and click "Sign In."
-5. Navigate to the "Mobile and Web Application" section on the website.
-6. Click on the provided link to access the web application.
-7. Explore the various features and functionalities available in the application.
+5. Explore the various features and functionalities available in the application.
 
 ## Feedback and Support
 
