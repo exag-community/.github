@@ -25,7 +25,7 @@ Church members can access a library of daily devotions and periodic sermons thro
 The application provides a secure and convenient way for church members to make offerings and pay tithes. Members can link their preferred payment methods, such as credit cards or digital wallets, to the application for seamless transactions. The application ensures the privacy and confidentiality of financial information.
 
 NB: Allow users to make enquiries on a program or event from details page. Customize the server to allow the app to be used by different churches
-
+Show meeting days at the top of the screen
 ## Installation and Usage
 
 ### Mobile Application
